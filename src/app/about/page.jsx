@@ -1,19 +1,15 @@
 import React from "react"
 import Image from "next/image";
-
 function AboutPage() {
   return (
     <div class="flex flex-col h-dvh">
       <div className="flex items-center justify-end bg-white h-8 text-white">
-        <div className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl ">
+        <div className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl">
           <p className="text-sm font-bold bg-gradient-to-r from-indigo-600 to-pink-500"></p>
         </div>
       </div>
-
-
       <div className="flex h-dvh">
         <div class="flex-none w-14 h-14">
-
         </div>
         <div class="grow h-14">
           <div class="flex flex-col">
@@ -38,7 +34,7 @@ function AboutPage() {
               <br />
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">EDUCATION</li>
               <br />
-              <p className="text-sm">- Bachelor Degrees :: Computer Engineering at Rajamangala University of Technology ISAN"s Sakon Nakhon</p>
+              <p className="text-sm">- Bachelor Degrees :: Computer Engineering at Rajamangala University of Technology ISAN Sakon Nakhon</p>
               <p className="text-sm">- Diploma Degree :: Electronic at Sakon Nakhon Technical College</p>
               <br />
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">WORK</li>
@@ -52,18 +48,13 @@ function AboutPage() {
               <p className="text-sm">- About IT System</p>
               <p className="text-sm">- About Excel/Google Sheet Advanced</p>
               <br />
-      
             </div>
           </div>
         </div>
-        <div class="flex-none w-14 h-14 ...">
-
+        <div class="flex-none w-14 h-14">
         </div>
       </div>
-
-      
     </div>
   )
 }
-
 export default AboutPage
