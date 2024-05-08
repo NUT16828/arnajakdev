@@ -21,32 +21,32 @@ function AboutPage() {
             <div>
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">INTRODUCE</li>
               <br />
-              <p className="text-sm">- Name :: Nuttawut Sensith</p>
-              <p className="text-sm">- Nickname :: Nut</p>
-              <p className="text-sm">- Birthday :: 3-Jun-1997</p>
-              <p className="text-sm">- Sex :: Man</p>
+              <p className="text-sm">{- Name :: Nuttawut Sensith}</p>
+              <p className="text-sm">{- Nickname :: Nut}</p>
+              <p className="text-sm">{- Birthday :: 3-Jun-1997}</p>
+              <p className="text-sm">{- Sex :: Man}</p>
               <br />
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">SKILLS</li>
               <br />
-              <p className="text-sm">- Programing :: Python / Visual Basic / C++ / HTML / CSS / Javascript / SQL Command</p>
-              <p className="text-sm">- Office :: Excel / Power Point / Word / Access / Google Sheet / Google Doc / Google Drive</p>
-              <p className="text-sm">- Engineering :: AutoCad / SolidWorks / Engineering Skills</p>
+              <p className="text-sm">{- Programing :: Python / Visual Basic / C++ / HTML / CSS / Javascript / SQL Command}</p>
+              <p className="text-sm">{- Office :: Excel / Power Point / Word / Access / Google Sheet / Google Doc / Google Drive}</p>
+              <p className="text-sm">{- Engineering :: AutoCAD / SolidWorks / Engineering Skills}</p>
               <br />
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">EDUCATION</li>
               <br />
-              <p className="text-sm">- Bachelor Degrees :: Computer Engineering at Rajamangala University of Technology ISAN Sakon Nakhon</p>
-              <p className="text-sm">- Diploma Degree :: Electronic at Sakon Nakhon Technical College</p>
+              <p className="text-sm">{- Bachelor Degrees :: Computer Engineering at Rajamangala University of Technology ISAN Sakon Nakhon}</p>
+              <p className="text-sm">{- Diploma Degree :: Electronic at Sakon Nakhon Technical College}</p>
               <br />
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">WORK</li>
               <br />
-              <p className="text-sm">- Test Engineer at Forth EMS Public Company Ltd (2 Year)</p>
+              <p className="text-sm">{- Test Engineer at Forth EMS Public Company Ltd (2 Year)}</p>
               <br />
               <li className="bg-gradient-to-r from-fuchsia-500 to-cyan-500">THE JOB LOOKING</li>
               <br />
-              <p className="text-sm">- About Machine/Measuring Tools</p>
-              <p className="text-sm">- About Programing</p>
-              <p className="text-sm">- About IT System</p>
-              <p className="text-sm">- About Excel/Google Sheet Advanced</p>
+              <p className="text-sm">{- About Machine/Measuring Tools}</p>
+              <p className="text-sm">{- About Programing}</p>
+              <p className="text-sm">{- About IT System}</p>
+              <p className="text-sm">{- About Excel/Google Sheet Advanced}</p>
               <br />
             </div>
           </div>
