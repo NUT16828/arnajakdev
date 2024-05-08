@@ -15,7 +15,7 @@ function AboutPage() {
         <div class="flex-none w-14 h-14">
 
         </div>
-        <div class="grow h-14 ...">
+        <div class="grow h-14">
           <div class="flex flex-col">
             <div className="flex items-center justify-center mx-auto min-h-6">
               <div className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl">
