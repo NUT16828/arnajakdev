@@ -44,6 +44,19 @@ function SkillsPage() {
             /></a>
           </div>
         </div>
+
+        <div className="bg-white border border-gray-300 p-2 rounded-md shadow-sm round-sm">
+          <div>Topic: Manual Testing และเครื่องมือต่างๆ</div>
+          <div><a href="https://futureskill.co/course/detail/712" target="_blank"><p className='hover:underline text-blue-700'>See in details</p></a></div>
+          <br />
+          <div><a href="/005.jpg" target="_blank" rel="noopener noreferrer">
+            <img className='rounded-md w-100 h-28'
+              src="/005.jpg" // ตัวอย่าง: รูปภาพชื่อ my-image.jpg ในโฟลเดอร์ public
+              alt="005QA"
+            /></a>
+          </div>
+        </div>
+        
         <div className="bg-white border border-gray-300 p-2 rounded-md shadow-sm round-sm">
           <div>Topic: พื้นฐาน Next.js สำหรับพัฒนาเว็บ</div>
           <div><a href="https://futureskill.co/course/detail/895" target="_blank"><p className="hover:underline text-blue-700">See in details</p></a></div>
