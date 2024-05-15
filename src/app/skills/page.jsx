@@ -9,7 +9,7 @@ function SkillsPage() {
           <p className="text-sm font-bold bg-gradient-to-r from-indigo-600 to-pink-500"></p>
         </div>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2 p-4 ">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-2 p-4 ">
         <div className="bg-white border border-gray-300 p-2 rounded-md shadow-sm round-sm">
           <div>Topic: ก้าวสู่โลกเทคโนโลยีด้วยการเป็น QA</div>
           <div><a href="https://futureskill.co/course/detail/710" target="_blank"><p className="hover:underline text-blue-700">See in details</p></a></div>
