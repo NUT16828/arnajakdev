@@ -65,7 +65,7 @@ function EducationPage() {
           <div><p>Program for test result of OK and NG counting.</p></div>
           <br />
           <div>
-            <a href="https://drive.google.com/file/d/1BHNLu8yZmdH_n42XflBNyy0D5UULOl9U/view?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1o4AGNFPzB6-8Z9XcU5igg-3QtvMSVYMl/view?usp=drive_link" target="_blank">
               <button>
                 <img class="h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer filter grayscale hover:grayscale-0"
                   src="/AOI300R_-_VISION.jpg" // ตัวอย่าง: รูปภาพชื่อ my-image.jpg ในโฟลเดอร์ public
